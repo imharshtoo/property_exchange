@@ -1,0 +1,209 @@
+.Sup * {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .Sup  html {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .Sup  body {
+    width: 100%;
+    height: 100%;
+  }
+  .Sup  body {
+    color: #000;
+    overflow-x: hidden;
+  }
+  .Sup  html, .Sup body {
+    background-image: linear-gradient(to right, #D500F9, #FFD54F);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .otp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .otp .input {
+    width: 50px;
+    height: 50px;
+    padding: 12px 15px 12px 15px !important;
+    font-size: 24px;
+    text-align: center;
+    margin-right: 12px;
+    text-transform: uppercase;
+    color: #000 !important;
+    font-weight: 400;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+      sans-serif;
+    border: 1px solid #666666 ;
+    border-radius: 50px;
+    background-color: #F3E5F5;
+    background-clip: padding-box;
+  }
+  
+  .otp .input:focus {
+    appearance: none;
+    outline: 0;
+    box-shadow: 0 0 0 3px #D500F9;
+  }
+  
+  .Sup input, .Sup textarea {
+    background-color: #F3E5F5;
+    border-radius: 50px !important;
+    padding: 12px 15px 12px 15px !important;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #666666 ;
+    font-size: 16px !important;
+    color: #000 !important;
+    font-weight: 400;
+  }
+  
+  .Sup input:focus, .Sup textarea:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 2px solid #D500F9 !important;
+    outline-width: 0;
+    font-weight: 400;
+  }
+  
+  .Sup button:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0;
+  }
+  
+  .Sup .card {
+    border-radius: 0;
+    border: none;
+  }
+  
+  .Sup .card1 {
+    width: 50%;
+    
+  }
+  
+  .Sup .card2 {
+    width: 50%;
+    background-image: linear-gradient(to right, #FFD54F, #D500F9);
+  }
+  
+  .Sup #logo {
+    width: 80%;
+    height: 80%;
+  }
+  
+  .Sup .heading {
+    margin-bottom: 60px !important;
+  }
+  
+  .Sup ::placeholder {
+    color: #000 !important;
+    opacity: 1;
+  }
+  
+  .Sup :-ms-input-placeholder {
+    color: #000 !important;
+  }
+  
+  .Sup ::-ms-input-placeholder {
+    color: #000 !important;
+  }
+  
+  .Sup .form-control-label {
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  
+  .Sup .msginfo {
+    padding-left: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .Sup .btn-color {
+    border-radius: 50px;
+    color: #fff;
+    background-image: linear-gradient(to right, #FFD54F, #D500F9);
+    padding: 15px;
+    cursor: pointer;
+    border: none !important;
+    margin-top: 40px;
+  }
+  
+  .Sup .btn-color:hover {
+    color: #fff;
+    background-image: linear-gradient(to right, #D500F9, #FFD54F);
+  }
+  
+  .Sup .btn-white {
+    border-radius: 50px;
+    color: #D500F9;
+    background-color: #fff;
+    padding: 8px 40px;
+    cursor: pointer;
+    border: 2px solid #D500F9 !important;
+  }
+  
+  .Sup .btn-white:hover {
+    color: #fff;
+    background-image: linear-gradient(to right, #FFD54F, #D500F9);
+  }
+  
+  .Sup a {
+    color: #000;
+  }
+  
+  .Sup a:hover {
+    color: #000;
+  }
+  
+  .Sup .bottom {
+    width: 100%;
+    margin-top: 50px !important;
+  }
+  
+  .Sup .sm-text {
+    font-size: 15px;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .Sup .card1 {
+        width: 100%;
+        padding: 40px 30px 10px 30px;
+    }
+  
+    .Sup .card2 {
+        width: 100%;
+    }
+  
+    .Sup .right {
+        margin-top: 100px !important;
+        margin-bottom: 100px !important;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .Sup .container {
+        padding: 10px !important;
+    }
+  
+    .Sup .card2 {
+        padding: 50px;
+    }
+  
+    .Sup .right {
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+    }
+  }

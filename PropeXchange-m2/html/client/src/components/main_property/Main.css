@@ -1,0 +1,83 @@
+.harsh{
+    padding: 10px;
+    margin: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.harsh button{
+    border-radius: 6px;
+    padding: 8px;
+    border-color: rgb(198, 216, 232);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    /* background-color: white; */
+}
+.pincode{
+    margin-top: 1cm;
+}
+.har{
+    text-align: center;
+    font-size: 1.2cm;
+    margin-top: 10px;
+    color: #787676;
+
+}
+.whole{
+    text-align: center;
+    margin: 1cm;
+    /* margin-bottom: 5cm; */
+}
+.left{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 1cm; */
+    font-size: 0.7cm;
+    padding: 10px;
+}
+.left .buy,.rent{
+    background-color:white;
+    padding: 0.1cm;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    border-radius: 5px;
+    border-color: #f7eeee0d;
+}
+.rent{
+    margin-left: 5px;
+}
+body{
+    background-color: #f2f2f2;
+}
+.second{
+    margin:1cm;
+    display: flex;
+    justify-content: center;
+}
+select,input{
+    background-color: #ffffff;
+    padding:7px 1cm 7px 1cm;
+}
+#ilove{
+    text-align: center;
+    /* padding-left: 30vw; */
+    width: 30vw;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.sub>input{
+    background-color: #fd3752;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px !important;
+    padding: 8px;
+    width: 4cm;
+}
+select{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+input{
+    border-radius: 20px;
+    border:1px solid #5a4242;
+}
+.search:hover{
+    background-color: blueviolet;
+}

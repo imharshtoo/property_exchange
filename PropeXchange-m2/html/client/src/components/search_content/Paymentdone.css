@@ -1,0 +1,15 @@
+.eeww{
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(222, 97, 97);
+    width: 8cm;
+    margin: 1cm;
+    height: 2cm;
+}
+.succs{
+    background-color: rgb(82, 181, 82) !important;
+    width: 8cm;
+    margin: 1cm;
+    border: none;
+    height: 2cm;
+}

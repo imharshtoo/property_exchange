@@ -1,0 +1,14 @@
+.profile{
+    margin-top: 1cm;
+}
+.ll{
+    margin-left: 2cm;
+}
+.profile>input{
+    background-color: #fd3752;
+    color: white;
+    cursor: pointer;
+}
+.profile>input:hover{
+    background-color: blueviolet;
+}

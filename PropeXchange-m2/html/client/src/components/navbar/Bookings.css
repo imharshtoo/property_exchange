@@ -1,0 +1,11 @@
+.book{
+    background-color: rgb(102, 235, 102);
+    border:none;
+    border-radius: 5px;
+    width: 5cm;
+    height: 1.3cm;
+    cursor: pointer;
+}
+.book:hover{
+    background-color: darkcyan;
+}

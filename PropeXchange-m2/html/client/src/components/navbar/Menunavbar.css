@@ -1,0 +1,19 @@
+.uu{
+    /* background-color: rgb(234, 234, 227); */
+    width: 6cm;
+    margin-left:12cm;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 20px;
+    position: absolute;
+}
+.uu1{
+    padding: 0.5cm;
+    background-color: rgb(209, 238, 238);
+    color: rgb(5, 72, 50);
+    border: 1px solid rgb(106, 155, 106);
+    text-align: center;
+}
+.uu1:hover{
+    background-color: rgb(225, 153, 153);
+    cursor: pointer;
+}

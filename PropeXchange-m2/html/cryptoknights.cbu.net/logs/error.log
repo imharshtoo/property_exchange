@@ -1,0 +1,199 @@
+[Tue Sep 05 19:55:06.227401 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 19:55:06.227459 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:35:58.432893 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:35:58.432922 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:36:03.200685 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:36:03.200708 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:36:13.422064 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:36:13.422092 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:36:18.171124 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:36:18.171148 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:45:36.068249 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:45:36.068289 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 05 20:45:40.892146 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 05 20:45:40.892169 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 06 00:00:44.007760 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 06 00:00:44.007808 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 07 00:00:43.976088 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Sep 07 00:00:43.976114 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 08 00:00:43.959680 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 08 00:00:43.959704 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 09 00:00:43.961118 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 09 00:00:43.961152 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 10 00:00:00.249737 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 10 00:00:00.249790 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 11 00:00:57.373960 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 11 00:00:57.373987 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 12 00:00:43.993947 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 12 00:00:43.993985 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 13 00:00:43.931656 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 13 00:00:43.931681 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 13 11:25:43.369220 2023] [core:error] [pid 94238:tid 139759723271744] [client 192.168.2.233:45744] AH00135: Invalid method in request GRRR / HTTP/1.1
+[Thu Sep 14 00:00:43.993076 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Sep 14 00:00:43.993130 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 15 00:00:57.347087 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 15 00:00:57.347114 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 16 00:00:43.909757 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 16 00:00:43.909800 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 17 00:00:43.901108 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 17 00:00:43.901157 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 18 00:00:43.931370 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 18 00:00:43.931405 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 19 00:00:43.902954 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 19 00:00:43.902992 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 20 00:00:43.908325 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 20 00:00:43.908354 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 21 00:00:43.953030 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Sep 21 00:00:43.953065 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 22 00:00:43.904857 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 22 00:00:43.904888 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 23 00:00:43.909981 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 23 00:00:43.910009 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 24 00:00:43.935536 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Sep 24 00:00:43.935569 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 25 00:00:43.921952 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 25 00:00:43.921984 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 26 00:00:43.930009 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 26 00:00:43.930063 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 27 00:00:43.936865 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 27 00:00:43.936894 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Sep 28 00:00:57.380652 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Sep 28 00:00:57.380677 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Sep 29 00:00:43.931344 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Sep 29 00:00:43.931381 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 30 00:00:43.941773 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Sep 30 00:00:43.941864 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 01 00:00:44.048213 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 01 00:00:44.048239 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 02 00:00:43.906414 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 02 00:00:43.906453 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 03 00:00:43.937338 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 03 00:00:43.937364 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 04 00:00:43.927422 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 04 00:00:43.927460 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 05 00:00:43.914847 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 05 00:00:43.914877 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 06 00:00:43.928230 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 06 00:00:43.928257 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 07 00:00:43.920486 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 07 00:00:43.920514 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 08 00:00:43.921518 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 08 00:00:43.921547 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 09 00:00:43.924966 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 09 00:00:43.925014 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 10 00:00:43.919674 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 10 00:00:43.919702 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 11 00:00:43.920570 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 11 00:00:43.920599 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 12 00:00:57.376911 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 12 00:00:57.376961 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 13 00:00:57.382660 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 13 00:00:57.382687 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 14 00:00:43.926436 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 14 00:00:43.926469 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 15 00:00:43.908561 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 15 00:00:43.908605 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 16 00:00:43.936759 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 16 00:00:43.936785 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 17 00:00:43.945828 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 17 00:00:43.945869 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 18 00:00:43.915543 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 18 00:00:43.915578 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 19 00:00:43.934043 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 19 00:00:43.934117 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 20 00:00:43.927109 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 20 00:00:43.927147 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 21 00:00:43.951088 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 21 00:00:43.951132 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 22 00:00:43.959419 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 22 00:00:43.959465 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 23 00:00:43.907845 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 23 00:00:43.907882 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 24 00:00:43.946615 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 24 00:00:43.946665 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 25 00:00:43.924726 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 25 00:00:43.924766 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 00:00:43.912975 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 00:00:43.913004 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 10:41:03.518539 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 10:41:03.518572 2023] [ssl:warn] [pid 82164:tid 139759756957568] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 10:46:10.977275 2023] [ssl:warn] [pid 213645:tid 140327463524224] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 10:46:10.977359 2023] [ssl:warn] [pid 213645:tid 140327463524224] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 10:46:10.995590 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 10:46:10.995617 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 11:15:06.448237 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 11:15:06.448266 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 11:17:23.327826 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 11:17:23.327857 2023] [ssl:warn] [pid 213647:tid 140327463524224] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:38.011375 2023] [ssl:warn] [pid 232195:tid 140107922900864] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:38.011820 2023] [ssl:warn] [pid 232195:tid 140107922900864] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:38.027514 2023] [ssl:warn] [pid 232197:tid 140107922900864] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:38.027729 2023] [ssl:warn] [pid 232197:tid 140107922900864] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:38.196156 2023] [ssl:warn] [pid 232269:tid 139804506564480] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:38.196242 2023] [ssl:warn] [pid 232269:tid 139804506564480] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:38.216372 2023] [ssl:warn] [pid 232270:tid 139804506564480] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:38.216417 2023] [ssl:warn] [pid 232270:tid 139804506564480] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:41.172277 2023] [ssl:warn] [pid 232356:tid 139893876701056] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:41.172354 2023] [ssl:warn] [pid 232356:tid 139893876701056] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:41.186535 2023] [ssl:warn] [pid 232357:tid 139893876701056] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:41.186574 2023] [ssl:warn] [pid 232357:tid 139893876701056] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:42.505949 2023] [ssl:warn] [pid 232428:tid 140077235066752] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:42.506164 2023] [ssl:warn] [pid 232428:tid 140077235066752] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:02:42.526096 2023] [ssl:warn] [pid 232430:tid 140077235066752] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:02:42.526139 2023] [ssl:warn] [pid 232430:tid 140077235066752] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:23:26.888143 2023] [ssl:warn] [pid 234562:tid 139680904050560] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:23:26.888223 2023] [ssl:warn] [pid 234562:tid 139680904050560] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:23:26.905614 2023] [ssl:warn] [pid 234563:tid 139680904050560] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:23:26.905663 2023] [ssl:warn] [pid 234563:tid 139680904050560] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:23:27.075895 2023] [ssl:warn] [pid 234634:tid 139782144792448] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:23:27.075971 2023] [ssl:warn] [pid 234634:tid 139782144792448] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 13:23:27.095177 2023] [ssl:warn] [pid 234635:tid 139782144792448] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 13:23:27.095217 2023] [ssl:warn] [pid 234635:tid 139782144792448] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 17:54:32.144785 2023] [ssl:warn] [pid 249424:tid 139898960648064] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 17:54:32.145303 2023] [ssl:warn] [pid 249424:tid 139898960648064] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 17:54:32.165652 2023] [ssl:warn] [pid 249425:tid 139898960648064] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 17:54:32.165858 2023] [ssl:warn] [pid 249425:tid 139898960648064] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 17:55:07.669161 2023] [ssl:warn] [pid 249425:tid 139898960648064] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 17:55:07.669430 2023] [ssl:warn] [pid 249425:tid 139898960648064] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:45:04.365848 2023] [ssl:warn] [pid 253755:tid 139947312035712] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:45:04.366475 2023] [ssl:warn] [pid 253755:tid 139947312035712] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:45:04.391791 2023] [ssl:warn] [pid 253757:tid 139947312035712] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:45:04.391857 2023] [ssl:warn] [pid 253757:tid 139947312035712] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:45:14.356953 2023] [ssl:warn] [pid 253757:tid 139947312035712] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:45:14.357027 2023] [ssl:warn] [pid 253757:tid 139947312035712] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:48:21.902211 2023] [ssl:warn] [pid 254217:tid 140179469518720] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:48:21.902443 2023] [ssl:warn] [pid 254217:tid 140179469518720] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:48:21.929241 2023] [ssl:warn] [pid 254218:tid 140179469518720] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:48:21.929454 2023] [ssl:warn] [pid 254218:tid 140179469518720] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:48:24.290564 2023] [ssl:warn] [pid 254305:tid 140348149688192] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:48:24.290789 2023] [ssl:warn] [pid 254305:tid 140348149688192] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:48:24.311243 2023] [ssl:warn] [pid 254306:tid 140348149688192] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:48:24.311440 2023] [ssl:warn] [pid 254306:tid 140348149688192] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 18:49:43.583176 2023] [ssl:warn] [pid 254306:tid 140348149688192] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 18:49:43.583724 2023] [ssl:warn] [pid 254306:tid 140348149688192] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:00:24.407669 2023] [ssl:warn] [pid 255835:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:00:24.408017 2023] [ssl:warn] [pid 255835:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:00:24.433686 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:00:24.433777 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:00:35.191394 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:00:35.191468 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:01:06.196483 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:01:06.196560 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:01:33.210630 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:01:33.210989 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:02:51.177175 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:02:51.177243 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:03:55.880319 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:03:55.880531 2023] [ssl:warn] [pid 255836:tid 139639991789440] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:06:12.173426 2023] [ssl:warn] [pid 256815:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:06:12.173496 2023] [ssl:warn] [pid 256815:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 26 19:06:12.203018 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 26 19:06:12.203218 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 27 00:00:43.964916 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 27 00:00:43.965345 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 28 00:00:43.926447 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 28 00:00:43.926473 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 29 00:00:43.936467 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Oct 29 00:00:43.936505 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 30 00:00:43.932322 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01906: cryptoknights.cbu.net:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 30 00:00:43.932354 2023] [ssl:warn] [pid 256816:tid 139788233930624] AH01909: cryptoknights.cbu.net:443:0 server certificate does NOT include an ID which matches the server name

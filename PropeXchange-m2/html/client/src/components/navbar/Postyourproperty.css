@@ -1,0 +1,61 @@
+.main{
+    text-align: center;
+}
+.main>h1{
+    color: rgb(249, 163, 120);
+}
+.ee1>label{
+    margin-right: 1cm;
+}
+.ee1>input{
+    text-align: center;
+}
+.riti{
+    display: flex;
+    justify-content:center;
+    margin-top:1cm;
+}
+.riti>div{
+    margin-left: 1cm;
+    margin-bottom: 1cm;
+}
+.reee>input{
+    width: 60%;
+}
+#apartment,#bhk,#state{
+    text-align: center;
+    border-radius: 2cm;
+    margin-bottom: 0.5cm;
+}
+.love{
+    display: flex;
+    justify-content: center;
+}
+.floor{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+}
+.floor>input{
+    text-align: center;
+}
+.rot{
+    display: flex;
+    justify-content: center;
+}
+.rot>div{
+    margin-left: 1cm;
+}
+.submit{
+    margin-top: 1cm;
+    display: flex;
+    justify-content: center;
+}
+.date>input{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.submit>input{
+    background-image:linear-gradient(rgb(136, 155, 249),rgb(250, 113, 71));
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
